@@ -22,7 +22,7 @@ Automates post-resolution documentation and simulates Generative AI summarizatio
 ServiceNow Personal Developer Instance (PDI): **Yokohama Release**
 
 ## Diagram
-![Flow Diagram](Diagrams/ITSM_GenAI_Incident_Summary.png)
+![Flow Diagram](Diagrams/FlowDiagram.png)
 
 ## Skills Demonstrated
 ServiceNow ITSM | Flow Designer | AI Automation | Predictive & Generative AI Simulation | Yokohama PDI
